@@ -383,7 +383,7 @@ span.conf {
   width: auto;
   height: auto;
   max-height: 150px;
-  max-width: auto;
+  max-width: 200px;
   background: none;
   background-color: white;
 }
