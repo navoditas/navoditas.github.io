@@ -374,7 +374,7 @@ span.conf {
 }
 
 #timeline-logos .logo-wrap {
-  height: 50px;
+  height: 90px;
   text-align: center;
   white-space: nowrap;
 }
@@ -382,7 +382,7 @@ span.conf {
 #timeline-logos .logo-wrap img {
   width: auto;
   height: auto;
-  max-height: 50px;
+  max-height: 90px;
   max-width: auto;
   background: none;
   background-color: white;
@@ -390,7 +390,7 @@ span.conf {
 
 #timeline-logos .logo-desc {
   text-align: center;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 #timeline-logos {
