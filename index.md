@@ -54,7 +54,7 @@ My CV is available [here][33].
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iiitm.ac.in/"><img src="/img/logos/Logo.jpg"></a>
+            <a href="//iiitm.ac.in/"><img style="width:60px;" src="/img/logos/Logo.jpg"></a>
         </div>
         <div class="logo-desc">
             IIIT Gwalior<br>
@@ -64,7 +64,7 @@ My CV is available [here][33].
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.unitedhealthgroup.com/"><img src="/img/logos/uhg2.jpg"></a>
+            <a href="//https://www.unitedhealthgroup.com/"><img style="width:200px;" src="/img/logos/uhg2.jpg"></a>
         </div>
         <div class="logo-desc">
             UnitedHealth Group<br>
@@ -74,7 +74,7 @@ My CV is available [here][33].
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://research.google/locations/india/"><img src="/img/logos/gglai.png"></a>
+            <a href="//https://research.google/locations/india/"><img style="width:200px;" src="/img/logos/gglai.png"></a>
         </div>
         <div class="logo-desc">
             Google AI<br>
