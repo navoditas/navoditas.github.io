@@ -64,7 +64,7 @@ My CV is available [here][33].
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.unitedhealthgroup.com/"><img style="width:120px;" src="/img/logos/uhg2.jpg"></a>
+            <a href="//https://www.unitedhealthgroup.com/"><img src="/img/logos/uhg2.jpg"></a>
         </div>
         <div class="logo-desc">
             UnitedHealth Group<br>
@@ -87,7 +87,7 @@ My CV is available [here][33].
 I graduated from [Indian Institute of Information Technology and Management Gwalior][31] in 2020.
 During my undergrad years, both my Bachelor's and Master's Thesis had been graded as Outstanding. I have also actively contributed to Open Source Scientific Computing Community with feature additions and patches in projects such as OpenCV, AstroPy, SciPy, Shogun ML Toolkit, Chainer and TensorForce. 
 
-On the side, I maintain [Jupyer Probe], a library to monitor, manage, declare and analyse notebook resource usage on jupyter environments.
+On the side, I maintain [Jupyer Probe](https://pypi.org/project/jupyter-probe/), a library to monitor, manage, declare and analyse notebook resource usage on jupyter environments.
 I am also an avid bird watcher and photographer and post pictures from my adventures on [Instagram][24].
 
 [Blog posts from a previous life.](/archive)
