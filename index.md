@@ -51,7 +51,7 @@ Previously, I was a Data Scientist at United Health Group where I worked on mode
 My CV is available [here][33].
 
 <div class="row" id="timeline-logos">
-    <div class="col-xs-3">
+    <div class="col-xs-5">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//iiitm.ac.in/"><img src="/img/logos/Logo.jpg"></a>
@@ -61,7 +61,7 @@ My CV is available [here][33].
             2015 - 2020
         </div>
     </div>
-    <div class="col-xs-3">
+    <div class="col-xs-5">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//https://www.unitedhealthgroup.com/"><img style="width:120px;" src="/img/logos/uhg2.jpg"></a>
@@ -71,7 +71,7 @@ My CV is available [here][33].
             S2019, 2020-2021
         </div>
     </div>
-    <div class="col-xs-3">
+    <div class="col-xs-5">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//https://research.google/locations/india/"><img src="/img/logos/gglai.png"></a>
