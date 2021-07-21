@@ -64,7 +64,7 @@ My CV is available [here][33].
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.unitedhealthgroup.com/"><img style="width:120px;" src="/img/logos/uhg2.png"></a>
+            <a href="//https://www.unitedhealthgroup.com/"><img style="width:120px;" src="/img/logos/uhg2.jpg"></a>
         </div>
         <div class="logo-desc">
             UnitedHealth Group<br>
