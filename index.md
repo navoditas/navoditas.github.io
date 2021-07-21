@@ -50,7 +50,7 @@ My research focuses on reinforcement learning and multi-agent systems with appli
 Previously, I was a Data Scientist at United Health Group where I worked on modelling healthcare risks for millions of beneficiaries.
 My CV is available [here][33].
 
-<div class="row" id="timeline-logos  style="margin-right:-1px">
+<div class="row" id="timeline-logos"  style="margin-right:-1px">
     <div class="col-sm-3 ">
         <div class="logo-wrap">
             <span class="helper"></span>
