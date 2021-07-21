@@ -64,11 +64,11 @@ My CV is available [here][33].
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.unitedhealthgroup.com/"><img style="width:120px;" src="/img/logos/uhg.png"></a>
+            <a href="//https://www.unitedhealthgroup.com/"><img style="width:120px;" src="/img/logos/uhg2.png"></a>
         </div>
         <div class="logo-desc">
-            UnitedHealth Group Optum<br>
-            Summer 2019, 2020-2021
+            UnitedHealth Group<br>
+            S2019, 2020-2021
         </div>
     </div>
     <div class="col-xs-3">
@@ -83,37 +83,12 @@ My CV is available [here][33].
     </div>
 </div>
 
-During my PhD, I've spent three wonderful semesters as an intern at Facebook AI
-Research — Summer 2017 and Spring 2018 at Menlo Park, working with [Georgia Gkioxari][46],
-[Devi Parikh][47] and [Dhruv Batra][48] on training embodied agents for navigation and
-question-answering in simulated environments (see [embodiedqa.org][40]), and Summer
-2018 at Montréal, working with [Mike Rabbat][55] and [Joelle Pineau][56] on
-communication protocols in large-scale multi-agent reinforcement learning.
 
-In 2019, I was fortunate to get the opportunity to spend time at DeepMind in London
-working on grounded language learning with [Felix Hill][felix-hill], [Laura Rimell][laura-rimell],
-and [Stephen Clark][stephen-clark], and at Tesla Autopilot in Palo Alto working on
-differentiable neural architecture search with [Andrej Karpathy][andrej-karpathy].
+I graduated from [Indian Institute of Information Technology and Management Gwalior][31] in 2020.
+During my undergrad years, both my Bachelor's and Master's Thesis had been graded as Outstanding. I have also actively contributed to Open Source Scientific Computing Community with feature additions and patches in projects such as OpenCV, AstroPy, SciPy, Shogun ML Toolkit, Chainer and TensorForce. 
 
-My PhD research was supported by fellowships from [Facebook][fb-fellow-page],
-[Adobe][39], and [Snap][36].
-
-Prior to joining grad school, I worked on neural coding in zebrafish tectum
-as an intern under [Prof. Geoffrey Goodhill][4] and [Lilach Avitan][5]
-at the [Goodhill Lab][6], Queensland Brain Institute.
-
-I graduated from [Indian Institute of Technology Roorkee][31] in 2015.
-During my undergrad years, I've been selected twice for
-Google Summer of Code ([2013][8] and [2014][9]),
-won several hackathons and security contests ([Yahoo! HackU!][10],
-[Microsoft Code.Fun.Do.][11], Deloitte CCTC [2013][12] and [2014][13]),
-and been an active member of [SDSLabs][16].
-
-On the side, I maintain [aideadlin.es][34] (countdowns to a bunch of CV/NLP/ML/AI conference deadlines)
-and [aipaygrad.es][aipaygrad.es] (statistics of industry job offers in AI).
-Previously, I'd built [neural-vqa][19] and its extension [neural-vqa-attention][35],
-[HackFlowy][20], [graf][21], [Erdős][17], [etc][22].
-I often [tweet][23] and post pictures from my [travels][conquerearth] on [Instagram][24] and [Tumblr][25].
+On the side, I maintain [Jupyer Probe], a library to monitor, manage, declare and analyse notebook resource usage on jupyter environments.
+I am also an avid bird watcher and photographer and post pictures from my adventures on [Instagram][24].
 
 [Blog posts from a previous life.](/archive)
 
