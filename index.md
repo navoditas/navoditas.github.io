@@ -51,7 +51,7 @@ Previously, I was a Data Scientist at United Health Group where I worked on mode
 My CV is available [here][33].
 
 <div class="row" id="timeline-logos">
-    <div class="col-sm-3 ">
+    <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//iiitm.ac.in/"><img style="width:60px;" src="/img/logos/Logo.jpg"></a>
@@ -61,20 +61,20 @@ My CV is available [here][33].
             2015 - 2020
         </div>
     </div>
-    <div class="col-sm-3">
+    <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//www.unitedhealthgroup.com/"><img style="width:150px;" src="/img/logos/uhg2.jpg"></a>
+            <a href="//https://www.unitedhealthgroup.com/"><img style="width:200px;" src="/img/logos/uhg2.jpg"></a>
         </div>
         <div class="logo-desc">
             UnitedHealth Group<br>
             S2019, 2020-2021
         </div>
     </div>
-    <div class="col-sm-3">
+    <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="https://research.google/locations/india/"><img style="width:150px;" src="/img/logos/gglai.png"></a>
+            <a href="//https://research.google/locations/india/"><img style="width:200px;" src="/img/logos/gglai.png"></a>
         </div>
         <div class="logo-desc">
             Google AI<br>
@@ -824,3 +824,4 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 [aipaygrad.es]: https://aipaygrad.es
 [sigma-xi-thesis-award]: https://cpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/0/283/files/2021/03/2021-Sigma-Xi-Research-Award-Winners.final_.pdf
 [coc-dissertation-award]: https://sites.gatech.edu/gtcomputingawards2021/graduate-student-awards/
+{"mode":"full","isActive":false}
