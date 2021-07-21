@@ -64,7 +64,7 @@ My CV is available [here][33].
     <div class="col-sm-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//www.unitedhealthgroup.com/"><img style="height:120px;" src="/img/logos/uhg2.jpg"></a>
+            <a href="//www.unitedhealthgroup.com/"><img style="width:150px;" src="/img/logos/uhg2.jpg"></a>
         </div>
         <div class="logo-desc">
             UnitedHealth Group<br>
@@ -74,7 +74,7 @@ My CV is available [here][33].
     <div class="col-sm-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="https://research.google/locations/india/"><img style="height:120px;" src="/img/logos/gglai.png"></a>
+            <a href="https://research.google/locations/india/"><img style="width:150px;" src="/img/logos/gglai.png"></a>
         </div>
         <div class="logo-desc">
             Google AI<br>
