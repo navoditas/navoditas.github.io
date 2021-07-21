@@ -50,7 +50,7 @@ My research focuses on reinforcement learning and multi-agent systems with appli
 Previously, I was a Data Scientist at United Health Group where I worked on modelling healthcare risks for millions of beneficiaries.
 My CV is available [here][33].
 
-<div class="row" id="timeline-logos"  style="margin-right:-1px">
+<div class="row" id="timeline-logos">
     <div class="col-sm-3 ">
         <div class="logo-wrap">
             <span class="helper"></span>
@@ -64,7 +64,7 @@ My CV is available [here][33].
     <div class="col-sm-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.unitedhealthgroup.com/"><img style="height:200px;" style="width:200px;" src="/img/logos/uhg2.jpg"></a>
+            <a href="//www.unitedhealthgroup.com/"><img style="height:200px;" src="/img/logos/uhg2.jpg"></a>
         </div>
         <div class="logo-desc">
             UnitedHealth Group<br>
@@ -74,7 +74,7 @@ My CV is available [here][33].
     <div class="col-sm-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://research.google/locations/india/"><img style=" height:200px;" src="/img/logos/gglai.png"></a>
+            <a href="https://research.google/locations/india/"><img style="height:200px;" src="/img/logos/gglai.png"></a>
         </div>
         <div class="logo-desc">
             Google AI<br>
