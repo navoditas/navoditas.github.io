@@ -20,10 +20,11 @@ permalink:  /
 
 # News
 
-- [Mar 21] Joined Google Research India as Pre-Doctoral Reseacher! Working with [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) within AI for Social Good.
-- [May 21] Presenting [Towards Sample Efficient Learners in Population based Referential Games through Action Advising
+- [Mar 21] Joined [Google AI India](https://research.google/locations/india/) as Pre-Doctoral Reseacher! Working with [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) within [AI for Social Good](https://ai.google/social-good/).
+- [May 21] I'm volunteering at [ICLR 21](https://iclr.cc/Conferences/2021). See you at the help desk!
+- [May 21] Presenting [Towards Sample Efficient Learners in Population based Referential Games through Action Advising- 
 ](#/advise) at AAMAS 2021 (Poster).
-- [Feb 21] Invited as Facilitator in [Reinforcement Learning Data Study Group](https://www.turing.ac.uk/events/reinforcement-learning-study-group-february-2021) at [The Alan Turing Institute, UK](www.turing.ac.uk)!
+- [Feb 21] Invited as a Facilitator in [Reinforcement Learning Data Study Group](https://www.turing.ac.uk/events/reinforcement-learning-study-group-february-2021) at [The Alan Turing Institute, UK](www.turing.ac.uk)!
 - [Dec 20] Released [JupyterProbe v0.1](https://pypi.org/project/jupyter-probe/). It helps monitor, manage and analyse notebook resource usage on Jupyter environments!
 - [Aug 20] Joined United Health Group as Data Scientist!
 - [July 20] Presenting [Emergence of Multilingualism in Population based Referential Games](#/multilingual) at Workshop on Language in Reinforcement Learning, ICML 2020.
@@ -31,7 +32,6 @@ permalink:  /
 - [Feb 20] Presenting [Emergence of Writing Systems through Multi-Agent Cooperation](#/writing) at AAAI 2020 (Poster).
 - [Jan 20] Presenting [Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots](#/diagnose-rl) at CoDS-COMAD 2020 (Oral).
 - [Jan 20] Presenting [IIITM Face: A Database for Facial Attribute Detection in Constrained and Simulated Unconstrained Environments](#/iiitm) at CoDS-COMAD 2020 (Oral).
-- [Nov 19] Awarded travel grant for attending IEEE High Performance Computing Conference 2019.
 
 <div id="read-more-button">
     <a nohref>Read more</a>
@@ -43,9 +43,8 @@ permalink:  /
 
 # Bio
 
-I am a Research Scientist at Facebook AI Research (FAIR).
-Previously, I was a Computer Science PhD student at Georgia Tech, advised by [Dhruv Batra][2],
-and working closely with [Devi Parikh][3].
+I am a Pre-Doctoral Researcher at Google AI India.
+Previously, I was a Data Scientist at United Health Group where I worked on 
 
 My research focuses on deep learning
 and its applications in climate change, and in building agents that can <i>see</i> (computer vision),
