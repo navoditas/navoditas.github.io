@@ -380,7 +380,7 @@ span.conf {
 }
 
 #timeline-logos .logo-wrap img {
-  width: auto;
+  width: 200px;
   height: auto;
   max-height: 150px;
   max-width: auto;
