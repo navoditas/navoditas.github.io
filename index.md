@@ -81,56 +81,6 @@ My CV is available [here][33].
             2021 - present
         </div>
     </div>
-    <div class="col-xs-2">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a target="_blank" href="//gatech.edu"><img src="/img/logos/gatech.png"></a>
-        </div>
-        <div class="logo-desc">
-            Georgia Tech<br>
-            2017 - 2020
-        </div>
-    </div>
-    <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a target="_blank" href="//research.fb.com/category/facebook-ai-research/"><img style="width:160px;" src="/img/logos/fair3.png"></a>
-        </div>
-        <div class="logo-desc">
-            Facebook AI Research<br>
-            S2017, W2018, S2018
-        </div>
-    </div>
-    <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a target="_blank" href="//deepmind.com"><img style="width:120px;" src="/img/logos/deepmind.png"></a>
-        </div>
-        <div class="logo-desc">
-            DeepMind<br>
-            Winter 2019
-        </div>
-    </div>
-    <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a target="_blank" href="//www.tesla.com/autopilotAI"><img style="width:120px;" src="/img/logos/tesla.jpg"></a>
-        </div>
-        <div class="logo-desc">
-            Tesla Autopilot<br>
-            Summer 2019
-        </div>
-    </div>
-    <div class="col-xs-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a target="_blank" href="//research.fb.com/category/facebook-ai-research/"><img style="width:160px;" src="/img/logos/fair3.png"></a>
-        </div>
-        <div class="logo-desc">
-            Facebook AI Research<br>
-            Present
-        </div>
-    </div>
 </div>
 
 During my PhD, I've spent three wonderful semesters as an intern at Facebook AI
