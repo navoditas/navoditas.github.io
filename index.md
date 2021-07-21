@@ -44,43 +44,41 @@ permalink:  /
 # Bio
 
 I am a Pre-Doctoral Researcher at Google AI India.
-Previously, I was a Data Scientist at United Health Group where I worked on 
 
-My research focuses on deep learning
-and its applications in climate change, and in building agents that can <i>see</i> (computer vision),
-<i>think</i> (reasoning/interpretability), <i>talk</i> (language modeling), and
-<i>act</i> (reinforcement learning).
+My research focuses on reinforcement learning and multi-agent systems with application in robotics, public health and environmental conservation. On a fundamental research side, I'm interested in developing agents that learn behaviours which are transferable to real-world domains, are scalable through communication and are understandable and acceptable by humans.
+
+Previously, I was a Data Scientist at United Health Group where I worked on modelling healthcare risks for millions of beneficiaries.
 My CV is available [here][33].
 
 <div class="row" id="timeline-logos">
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iitr.ac.in"><img src="/img/logos/iitr.jpg"></a>
+            <a href="//iiitm.ac.in/"><img src="/img/logos/Logo.jpg"></a>
         </div>
         <div class="logo-desc">
-            IIT Roorkee<br>
-            2011 - 2015
+            IIIT Gwalior<br>
+            2015 - 2020
         </div>
     </div>
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//qbi.uq.edu.au"><img style="width:120px;" src="/img/logos/uq.png"></a>
+            <a href="//https://www.unitedhealthgroup.com/"><img style="width:120px;" src="/img/logos/uhg.png"></a>
         </div>
         <div class="logo-desc">
-            Queensland Brain Institute<br>
-            Summer 2015
+            UnitedHealth Group Optum<br>
+            Summer 2019, 2020-2021
         </div>
     </div>
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//vt.edu"><img src="/img/logos/vt.png"></a>
+            <a href="//https://research.google/locations/india/"><img src="/img/logos/gglai.png"></a>
         </div>
         <div class="logo-desc">
-            Virginia Tech<br>
-            2015 - 2016
+            Google AI<br>
+            2021 - present
         </div>
     </div>
     <div class="col-xs-2">
