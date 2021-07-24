@@ -84,13 +84,12 @@ My CV is available [here][33].
 </div>
 
 
-I graduated from [Indian Institute of Information Technology and Management Gwalior][31] in 2020.
+I graduated from [Indian Institute of Information Technology and Management Gwalior](iiitm.ac.in) in 2020.
 During my undergrad years, both my Bachelor's and Master's Thesis had been graded as Outstanding. I have also actively contributed to Open Source Scientific Computing Community with feature additions and patches in projects such as OpenCV, AstroPy, SciPy, Shogun ML Toolkit, Chainer and TensorForce. 
 
 On the side, I maintain [Jupyer Probe](https://pypi.org/project/jupyter-probe/), a library to monitor, manage, declare and analyse notebook resource usage on jupyter environments.
-I am also an avid bird watcher and photographer and post pictures from my adventures on [Instagram][24].
+I am also an avid bird watcher and photographer and post pictures from my adventures on [Instagram](instagram.com/hisblahness).
 
-[Blog posts from a previous life.](/archive)
 
 ---
 
@@ -98,164 +97,68 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 
 # Publications
 
-<a name="/spinconv"></a>
-<h2 class="pubt">Rotation Invariant Graph Neural Networks using Spin Convolutions</h2>
-<p class="pubd">
-    <span class="authors">Muhammed Shuaibi, Adeesh Kolluru, Abhishek Das, Aditya Grover, Anuroop Sriram, Zachary Ulissi, C. Lawrence Zitnick</span><br>
-    <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2106.09575">Paper</a>
-    </span>
-</p>
-<img src="/img/ocp/spinconv.jpg">
-<hr>
-
 <a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">Automated Video Description for Blind and Low Vision Users</h2>
+<h2 class="pubt">Towards Sample Efficient Learners in Population based Referential Games through Action Advising</h2>
 <p class="pubd">
-    <span class="authors">Aditya Bodi, Pooyan Fazli, Shasta Ihorn, Yue-Ting Siu, Andrew T Scott, Lothar Narins, Yash Kant, Abhishek Das, Ilmi Yoon</span><br>
-    <span class="conf">CHI EA 2021</span><br>
+    <span class="authors">Shresth Verma</span><br>
+    <span class="conf">AAMAS 2021</span><br>
     <span class="links">
-        <a target="_blank" href="https://dl.acm.org/doi/10.1145/3411763.3451810">Paper</a>
+        <a target="_blank" href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1689.pdf">Paper</a>
     </span>
 </p>
 <img src="/img/youdescribe/chi_ea_system.png">
 <hr>
 
 <a name="/habitat-objnav"></a>
-<h2 class="pubt">Auxiliary Tasks and Exploration Enable ObjectNav</h2>
+<h2 class="pubt">Emergence of Writing Systems through Multi-Agent Cooperation (Student Abstract)</h2>
 <p class="pubd">
-    <span class="authors">Joel Ye, Dhruv Batra, Abhishek Das, Erik Wijmans</span><br>
+    <span class="authors">Shresth Verma, Joydip Dhar</span><br>
+    <span class="conf">AAAI 2020</span><br>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2104.04112">Paper</a>
-        <a target="_blank" href="https://github.com/joel99/objectnav">Code</a>
-        <a target="_blank" href="https://joel99.github.io/objectnav/">Website</a>
+        <a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/7243">Paper</a>
     </span>
 </p>
 <img src="/img/habitat/habitat-objnav.png">
 <hr>
 
 <a name="/forcenet"></a>
-<h2 class="pubt">ForceNet: A Graph Neural Network for Large-Scale Quantum Calculations</h2>
+<h2 class="pubt">Emergence of Multilingualism in Population based Referential Games</h2>
 <p class="pubd">
-    <span class="authors">Weihua Hu, Muhammed Shuaibi, Abhishek Das, Siddharth Goyal, Anuroop Sriram, Jure Leskovec, Devi Parikh, C. Lawrence Zitnick</span><br>
+    <span class="authors">Shresth Verma</span><br>
+    <span class="conf">ICML Language in Reinforcement Learning Workshop 2020</span><br>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2103.01436">Paper</a>
-        <a target="_blank" href="https://opencatalystproject.org/">opencatalystproject.org</a>
+        <a target="_blank" href="https://openreview.net/forum?id=AGcx71S1TTE">Paper</a>
     </span>
 </p>
 <img src="/img/ocp/forcenet.jpg">
 <hr>
 
-<a name="/ocp-dataset"></a>
-<h2 class="pubt">The Open Catalyst 2020 (OC20) Dataset and Community Challenges</h2>
-<p class="pubd">
-    <span class="authors">Lowik Chanussot<sup>*</sup>, Abhishek Das<sup>*</sup>, Siddharth Goyal<sup>*</sup>, Thibaut Lavril<sup>*</sup>, Muhammed Shuaibi<sup>*</sup>, Morgane Riviére, Kevin Tran, Javier Heras-Domingo, Caleb Ho, Weihua Hu, Aini Palizhati, Anuroop Sriram, Brandon Wood, Junwoong Yoon, Devi Parikh, C. Lawrence Zitnick, Zachary Ulissi</span><br>
-    <span class="conf">ACS Catalysis 2021</span><br>
-    <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2010.09990">Paper</a>
-        <a target="_blank" href="https://github.com/open-catalyst-project/ocp">Code</a>
-        <a target="_blank" href="https://opencatalystproject.org/">opencatalystproject.org</a>
-    </span>
-</p>
-<img src="/img/ocp/dataset.png">
-<hr>
-
-<a name="/ocp-whitepaper"></a>
-<h2 class="pubt">An Introduction to Electrocatalyst Design using Machine Learning for Renewable Energy Storage</h2>
-<p class="pubd">
-    <span class="authors">C. Lawrence Zitnick, Lowik Chanussot, Abhishek Das, Siddharth Goyal, Javier Heras-Domingo, Caleb Ho, Weihua Hu, Thibaut Lavril, Aini Palizhati, Morgane Riviére, Muhammed Shuaibi, Anuroop Sriram, Kevin Tran, Brandon Wood, Junwoong Yoon, Devi Parikh, Zachary Ulissi</span><br>
-    <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2010.09435">Paper</a>
-        <a target="_blank" href="https://opencatalystproject.org/">opencatalystproject.org</a>
-    </span>
-    <!-- Press: -->
-    <div class="row pressdiv" style="margin: 5px 0 0 0; line-height: 1.4em;">
-        <a style="border-bottom: 0;" target="_blank" href="https://ai.facebook.com/blog/facebook-and-carnegie-mellon-launch-the-open-catalyst-project-to-find-new-ways-to-store-renewable-energy">
-            <div class="col-lg-1 col-md-1 col-xs-2" style="padding: 0;">
-                <img src="/img/logos/fair2.png" style="background: white; width: 60px;">
-            </div>
-            <div class="col-lg-11 col-md-11 col-xs-10">
-                <span class="presslink">"Facebook and Carnegie Mellon launch .. to ... store renewable energy" by Larry Zitnick</span>
-            </div>
-        </a>
-        <a style="border-bottom: 0;" target="_blank" href="https://fortune.com/2020/10/14/facebook-ai-open-catalyst-dataset-chemistry-renewable-energy/">
-            <div class="col-lg-1 col-md-1 col-xs-2" style="padding: 0;">
-                <img src="/img/logos/fortune.jpg" style="background: white; width: 60px;">
-            </div>
-            <div class="col-lg-11 col-md-11 col-xs-10">
-                <span class="presslink">"Facebook A.I. researchers push for a breakthrough in renewable energy storage" by Jeremy Kahn</span>
-            </div>
-        </a>
-        <a style="border-bottom: 0;" target="_blank" href="https://engadget.com/facebook-deploys-its-ai-to-find-green-energy-storage-solutions-130041147.html">
-            <div class="col-lg-1 col-md-1 col-xs-2" style="padding: 0;">
-                <img src="/img/logos/engadget.png" style="background: white; width: 60px;">
-            </div>
-            <div class="col-lg-11 col-md-11 col-xs-10">
-                <span class="presslink">"Facebook deploys its AI to find green energy storage solutions" by Andrew Tarantola</span>
-            </div>
-        </a>
-        <a style="border-bottom: 0;" target="_blank" href="https://www.cnbc.com/2020/10/14/facebook-to-use-ai-in-bid-to-improve-renewable-energy-storage.html">
-            <div class="col-lg-1 col-md-1 col-xs-2" style="padding: 0;">
-                <img src="/img/logos/cnbc.png" style="background: white; width: 60px;">
-            </div>
-            <div class="col-lg-11 col-md-11 col-xs-10">
-                <span class="presslink">"Facebook to use artificial intelligence in bid to improve renewable energy storage" by Sam Shead</span>
-            </div>
-        </a>
-        <a style="border-bottom: 0;" target="_blank" href="https://venturebeat.com/2020/10/14/facebook-and-carnegie-mellon-launch-project-to-discover-better-ways-to-store-renewable-energy/">
-            <div class="col-lg-1 col-md-1 col-xs-2" style="padding: 0;">
-                <img src="/img/logos/venturebeat.png" style="background: white; width: 60px;">
-            </div>
-            <div class="col-lg-11 col-md-11 col-xs-10">
-                <span class="presslink">"Facebook and Carnegie Mellon launch project to ... store renewable energy" by Kyle Wiggers</span>
-            </div>
-        </a>
-        <a style="border-bottom: 0;" target="_blank" href="https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/">
-            <div class="col-lg-1 col-md-1 col-xs-2" style="padding: 0 18px;">
-                <img src="/img/logos/cnet.png" style="background: white; width: 60px;">
-            </div>
-            <div class="col-lg-11 col-md-11 col-xs-10">
-                <span class="presslink">"Facebook plans to use AI to help fight climate change" by Queenie Wong</span>
-            </div>
-        </a>
-        <a style="border-bottom: 0;" target="_blank" href="https://syncedreview.com/2020/10/15/facebook-cmu-open-catalyst-project-applies-ai-to-renewable-energy-storage/">
-            <div class="col-lg-1 col-md-1 col-xs-2" style="padding: 0;">
-                <img src="/img/logos/synced.png" style="background: white; width: 60px;">
-            </div>
-            <div class="col-lg-11 col-md-11 col-xs-10">
-                <span class="presslink">"Facebook & CMU Open Catalyst Project Applies AI to Renewable Energy Storage" by Fangyu Cai</span>
-            </div>
-        </a>
-    </div>
-</p>
-<video autoplay loop src="/img/ocp/relaxation.mp4" width="95%"></video>
-<hr>
 
 <a name="/habitat-pointnav-aux"></a>
-<h2 class="pubt">Auxiliary Tasks Speed Up Learning PointGoal Navigation</h2>
+<h2 class="pubt">Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots</h2>
 <p class="pubd">
-    <span class="authors">Joel Ye, Dhruv Batra, Erik Wijmans*, Abhishek Das*</span><br>
-    <span class="conf">CoRL 2020</span><br>
+    <span class="authors">Shresth Verma, Haritha S. Nair, Gaurav Agarwal, Joydip Dhar, Anupam Shukla</span><br>
+    <span class="conf">ACM CoDS-COMAD 2020</span><br>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2007.04561">Paper</a>
-        <a target="_blank" href="https://github.com/joel99/habitat-pointnav-aux">Code</a>
+        <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3371158.3371168">Paper</a>
     </span>
 </p>
 <img src="/img/habitat/habitat-pointnav-aux.jpg">
 <hr>
 
-<a name="/visdial-bert"></a>
-<h2 class="pubt">Large-scale Pretraining for Visual Dialog: A Simple State-of-the-Art Baseline</h2>
+
+<a name="/habitat-pointnav-aux"></a>
+<h2 class="pubt">IIITM Face: A Database for Facial Attribute Detection in Constrained and Simulated Unconstrained Environments</h2>
 <p class="pubd">
-    <span class="authors">Vishvak Murahari, Dhruv Batra, Devi Parikh, Abhishek Das</span><br>
-    <span class="conf">ECCV 2020</span><br>
+    <span class="authors">KV Arya, Shresth Verma, Raj Kuwar Gupta, Soumya Agarwal, Prince Gupta</span><br>
+    <span class="conf">ACM CoDS-COMAD 2020</span><br>
     <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/1912.02379">Paper</a>
-        <a target="_blank" href="https://github.com/vmurahari3/visdial-bert">Code</a>
+        <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3371158.3371182">Paper</a>
     </span>
 </p>
-<img src="/img/visdial/visdial-bert.jpg">
+<img src="/img/habitat/habitat-pointnav-aux.jpg">
 <hr>
+
 
 <a name="/qa-probing"></a>
 <h2 class="pubt">Probing Emergent Semantics in Predictive Agents via Question Answering</h2>
