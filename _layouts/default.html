@@ -3,8 +3,20 @@
     <head>
         <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
         <script type="application/ld+json">
-            {{ page.schemadotorg | jsonify }}
-        </script>
+            {
+              "@context": "https://schema.org",
+              "@type": "Person",
+              "jobTitle": "Pre-Doctoral Researcher",
+              "name": "Shresth Verma",
+              "url": "http://vermashresth.github.io",
+              "sameAs": ["https://scholar.google.co.in/citations?user=XZQSq2sAAAAJ",
+              "https://twitter.com/shresth_verma"],
+              "affil": {
+                "@type": "Organization",
+                "name": "Google Inc."
+              }
+            }
+         </script>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
