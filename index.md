@@ -103,14 +103,13 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 <a name="/youdescribe-descriptions-1"></a>
 <h2 class="pubt">Towards Sample Efficient Learners in Population based Referential Games through Action Advising</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma</span><br>
-    <span class="conf">AAMAS 2021</span> 
-    <span class="links">
+    <span class="authors">Shresth Verma</span> <span class="links">
         <a target="_blank" href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1689.pdf">Paper</a>
     </span>
+    <span class="conf">AAMAS 2021</span> 
 </p>
 <!-- <img src="/img/aamas.png"> -->
-<hr>
+<!-- <hr> -->
 
 <a name="/habitat-objnav"></a>
 <h2 class="pubt">Emergence of Writing Systems through Multi-Agent Cooperation (Student Abstract)</h2>
@@ -122,7 +121,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
     </span>
 </p>
 <!-- <img src="/img/written.png"> -->
-<hr>
+<!-- <hr> -->
 
 <a name="/forcenet"></a>
 <h2 class="pubt">Emergence of Multilingualism in Population based Referential Games</h2>
@@ -134,7 +133,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
     </span>
 </p>
 <!-- <img src="/img/multilang.png"> -->
-<hr>
+<!-- <hr> -->
 
 
 <a name="/habitat-pointnav-aux"></a>
@@ -147,7 +146,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
     </span>
 </p>
 <!-- <img src="/img/damage-rl.png"> -->
-<hr>
+<!-- <hr> -->
 
 
 <a name="/habitat-pointnav-aux"></a>
@@ -160,7 +159,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
     </span>
 </p>
 <!-- <img src="/img/face-iiitm.png"> -->
-<hr>
+<!-- <hr> -->
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
