@@ -75,9 +75,10 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 
 <a name="/news"></a>
 # Updates
+- [Oct 22] I'll be presenting our work on **Field Study in Decision Focused Learning** at **Trustworthy and Socially Impactful ML** - **TSRML workshop NeurIPS 2022**
 - [Oct 22] Our work on **SAHELI Framework** for improving impact of mHealth programs through Restless MultiArmed Bandits got accepted at Innovative Applications of AI conference (**IAAI 2023**) and received **Best Innovative Application Award**!
-- [Dec 21] Our work on [Field Study demonstrating applicability of Restless MultiArmed Bandits in Public Health](https://sites.google.com/nyu.edu/mlph2021/accepted-papers) received **Best Paper Award** at **ML for Public Health Workshop at NeurIPS 2021**
-- [Nov 21] Our work on [**Restless Multi-Armed Bandits in Public Health**](https://ojs.aaai.org/index.php/AAAI/article/view/21460_ got accepted at **AAAI 2022**!
+- [Dec 21] Our work on [Restless Multi-Armed Bandits in Public Health](https://sites.google.com/nyu.edu/mlph2021/accepted-papers) received **Best Paper Award** at **ML for Public Health Workshop at NeurIPS 2021**
+- [Nov 21] Our work on [**Restless Multi-Armed Bandits in Public Health**](https://ojs.aaai.org/index.php/AAAI/article/view/21460) got accepted at **AAAI 2022**!
 - [Mar 21] Joined [Google AI India](https://research.google/locations/india/) as Pre-Doctoral Reseacher! Working with [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) within [AI for Social Good](https://ai.google/social-good/).
 - [May 21] I'm **volunteering** at [**ICLR 21**](https://iclr.cc/Conferences/2021). See you at the help desk!
 - [May 21] Presenting [Towards Sample Efficient Learners in Population based Referential Games through Action Advising- 
