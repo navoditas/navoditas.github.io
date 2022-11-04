@@ -101,12 +101,48 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 # Publications
 
 <a name="/youdescribe-descriptions-1"></a>
+<h2 class="pubt">Increasing Impact of Mobile Health Programs: SAHELI for Maternal and Child Care</h2>
+<p class="pubd">
+    <span class="authors">Shresth Verma, Gargi Singh, Aditya Mate, Paritosh verma, Sruti Gorantala, Neha Madhiwala, Aparna hegde, Divy Thakker, Manish Jain, Milind Tambe, Aparna Taneja  </span> 
+    <span class="conf">IAAI 2023, Best Innovative Application Award</span> <span class="links">
+        <a target="_blank" href="https://aaai.org/Conferences/AAAI-23/iaai-23-call/">Paper</a>
+    </span>
+</p>
+<!-- <img src="/img/aamas.png"> -->
+<!-- <hr> -->
+
+<a name="/youdescribe-descriptions-1"></a>
+<h2 class="pubt">Understanding Decision Focused Learning in Restless Multiarmed Bandit Problem through Large Scale
+Field Study</h2>
+<p class="pubd">
+    <span class="authors">Shresth Verma, Aditya Mate, Kai Wang, Aparna Taneja, Milind Tambe</span> 
+    <span class="conf">NeurIPS 2022 Workshop on Trustworthy and Socially Responsible ML</span>  <span class="links">
+        <a target="_blank" href="https://tsrml2022.github.io">Paper</a>
+    </span>
+</p>
+<!-- <img src="/img/aamas.png"> -->
+<!-- <hr> -->
+
+<a name="/youdescribe-descriptions-1"></a>
+<h2 class="pubt">Field Study in Deploying Restless Multi-Armed Bandits: Assisting Non-profits in Improving Maternal and
+Child Health</h2>
+<p class="pubd">
+    <span class="authors">Aditya Mate, Lovish Madaan, Aparna Taneja, Neha Madhiwala, Shresth Verma, Gargi Singh, Aparna Hegde, Pradeep Varakantham, Milind Tambe</span> 
+    <span class="conf">AAAI 2022</span>  <span class="links">
+        <a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/21460">Paper</a>
+    </span>
+</p>
+<!-- <img src="/img/aamas.png"> -->
+<!-- <hr> -->
+
+
+<a name="/youdescribe-descriptions-1"></a>
 <h2 class="pubt">Towards Sample Efficient Learners in Population based Referential Games through Action Advising</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma</span> <span class="links">
+    <span class="authors">Shresth Verma</span>
+    <span class="conf">AAMAS 2021</span>  <span class="links">
         <a target="_blank" href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1689.pdf">Paper</a>
     </span>
-    <span class="conf">AAMAS 2021</span> 
 </p>
 <!-- <img src="/img/aamas.png"> -->
 <!-- <hr> -->
@@ -129,7 +165,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
     <span class="authors">Shresth Verma</span><br>
     <span class="conf">ICML Language in Reinforcement Learning Workshop 2020</span>
     <span class="links">
-        <a target="_blank" href="https://openreview.net/forum?id=AGcx71S1TTE">Paper</a>
+        <a target="_blank" href="https://larel-ws.github.io/assets/pdfs/emergence_of_multilingualism_in_population_based_referential_games.pdf">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/multilang.png"> -->
