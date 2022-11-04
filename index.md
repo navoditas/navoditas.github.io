@@ -115,7 +115,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 <h2 class="pubt">Understanding Decision Focused Learning in Restless Multiarmed Bandit Problem through Large Scale
 Field Study</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma, Aditya Mate, Kai Wang, Aparna Taneja, Milind Tambe</span> 
+    <span class="authors">Shresth Verma, Aditya Mate, Kai Wang, Aparna Taneja, Milind Tambe</span><br> 
     <span class="conf">NeurIPS 2022 Workshop on Trustworthy and Socially Responsible ML</span>  <span class="links">
         <a target="_blank" href="https://tsrml2022.github.io">Paper</a>
     </span>
@@ -128,7 +128,7 @@ Field Study</h2>
 <h2 class="pubt">Field Study in Deploying Restless Multi-Armed Bandits: Assisting Non-profits in Improving Maternal and
 Child Health</h2>
 <p class="pubd">
-    <span class="authors">Aditya Mate, Lovish Madaan, Aparna Taneja, Neha Madhiwala, Shresth Verma, Gargi Singh, Aparna Hegde, Pradeep Varakantham, Milind Tambe</span> 
+    <span class="authors">Aditya Mate, Lovish Madaan, Aparna Taneja, Neha Madhiwala, Shresth Verma, Gargi Singh, Aparna Hegde, Pradeep Varakantham, Milind Tambe</span> <br>
     <span class="conf">AAAI 2022</span>  <span class="links">
         <a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/21460">Paper</a>
     </span>
@@ -140,7 +140,7 @@ Child Health</h2>
 <a name="/youdescribe-descriptions-1"></a>
 <h2 class="pubt">Towards Sample Efficient Learners in Population based Referential Games through Action Advising</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma</span>
+    <span class="authors">Shresth Verma</span><br>
     <span class="conf">AAMAS 2021</span>  <span class="links">
         <a target="_blank" href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1689.pdf">Paper</a>
     </span>
