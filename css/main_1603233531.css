@@ -266,7 +266,7 @@ p.lead.authors a {
 }
 
 a:hover, a:focus {
-  color: inherit;
+  color: #9A2617;
   text-decoration: none;
 }
 
