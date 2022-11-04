@@ -109,7 +109,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
         <a target="_blank" href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1689.pdf">Paper</a>
     </span>
 </p>
-<img src="/img/aamas.png">
+<!-- <img src="/img/aamas.png"> -->
 <hr>
 
 <a name="/habitat-objnav"></a>
@@ -121,7 +121,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
         <a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/7243">Paper</a>
     </span>
 </p>
-<img src="/img/written.png">
+<!-- <img src="/img/written.png"> -->
 <hr>
 
 <a name="/forcenet"></a>
@@ -133,7 +133,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
         <a target="_blank" href="https://openreview.net/forum?id=AGcx71S1TTE">Paper</a>
     </span>
 </p>
-<img src="/img/multilang.png">
+<!-- <img src="/img/multilang.png"> -->
 <hr>
 
 
@@ -146,7 +146,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
         <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3371158.3371168">Paper</a>
     </span>
 </p>
-<img src="/img/damage-rl.png">
+<!-- <img src="/img/damage-rl.png"> -->
 <hr>
 
 
@@ -159,7 +159,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
         <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3371158.3371182">Paper</a>
     </span>
 </p>
-<img src="/img/face-iiitm.png">
+<!-- <img src="/img/face-iiitm.png"> -->
 <hr>
 
 ---
