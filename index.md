@@ -104,7 +104,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 <h2 class="pubt">Towards Sample Efficient Learners in Population based Referential Games through Action Advising</h2>
 <p class="pubd">
     <span class="authors">Shresth Verma</span><br>
-    <span class="conf">AAMAS 2021</span><br>
+    <span class="conf">AAMAS 2021</span> 
     <span class="links">
         <a target="_blank" href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1689.pdf">Paper</a>
     </span>
@@ -116,7 +116,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 <h2 class="pubt">Emergence of Writing Systems through Multi-Agent Cooperation (Student Abstract)</h2>
 <p class="pubd">
     <span class="authors">Shresth Verma, Joydip Dhar</span><br>
-    <span class="conf">AAAI 2020</span><br>
+    <span class="conf">AAAI 2020</span> 
     <span class="links">
         <a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/7243">Paper</a>
     </span>
@@ -128,7 +128,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 <h2 class="pubt">Emergence of Multilingualism in Population based Referential Games</h2>
 <p class="pubd">
     <span class="authors">Shresth Verma</span><br>
-    <span class="conf">ICML Language in Reinforcement Learning Workshop 2020</span><br>
+    <span class="conf">ICML Language in Reinforcement Learning Workshop 2020</span>
     <span class="links">
         <a target="_blank" href="https://openreview.net/forum?id=AGcx71S1TTE">Paper</a>
     </span>
@@ -141,7 +141,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 <h2 class="pubt">Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots</h2>
 <p class="pubd">
     <span class="authors">Shresth Verma, Haritha S. Nair, Gaurav Agarwal, Joydip Dhar, Anupam Shukla</span><br>
-    <span class="conf">ACM CoDS-COMAD 2020</span><br>
+    <span class="conf">ACM CoDS-COMAD 2020</span>
     <span class="links">
         <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3371158.3371168">Paper</a>
     </span>
@@ -154,7 +154,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 <h2 class="pubt">IIITM Face: A Database for Facial Attribute Detection in Constrained and Simulated Unconstrained Environments</h2>
 <p class="pubd">
     <span class="authors">KV Arya, Shresth Verma, Raj Kuwar Gupta, Soumya Agarwal, Prince Gupta</span><br>
-    <span class="conf">ACM CoDS-COMAD 2020</span><br>
+    <span class="conf">ACM CoDS-COMAD 2020</span>
     <span class="links">
         <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3371158.3371182">Paper</a>
     </span>
