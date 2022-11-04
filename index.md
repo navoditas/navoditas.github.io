@@ -91,7 +91,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 - [Jan 20] Presenting [IIITM Face: A Database for Facial Attribute Detection in Constrained and Simulated Unconstrained Environments](#/iiitm) at CoDS-COMAD 2020 (Oral).
 
 <div id="read-more-button">
-    <a href>Read more</a>
+    <a nohref>Read more</a>
 </div>
 
 <hr>
