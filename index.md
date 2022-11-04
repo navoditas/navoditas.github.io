@@ -23,9 +23,7 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Pre-Doctoral Researcher within Google Research India.
-
-My research focuses on reinforcement learning and multi-agent systems with application in robotics, public health and environmental conservation. On a fundamental research side, I'm interested in developing agents that learn behaviours which are transferable to real-world domains, are scalable through communication and are understandable and acceptable by humans.
+I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the [AI for Social Good lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) mentored by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). My work focuses on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India. I'm interested in reinforcement learning and multi-agent systems with application in robotics, public health and environmental conservation. I want to develop agents that learn behaviours which are transferable to real-world domains, are scalable through communication and are understandable and acceptable by humans.
 
 Previously, I was a Data Scientist at United Health Group where I worked on modelling healthcare risks for millions of beneficiaries.
 My CV is available <a href="https://vermashresth.github.io/img/Shresth_CV_Research_Clean%20(4).pdf" target="_blank">here</a>
@@ -65,8 +63,7 @@ My CV is available <a href="https://vermashresth.github.io/img/Shresth_CV_Resear
 </div>
 
 
-I graduated from [Indian Institute of Information Technology and Management Gwalior](iiitm.ac.in) in 2020.
-During my undergrad years, both my Bachelor's and Master's Thesis had been graded as Outstanding. I have also actively contributed to Open Source Scientific Computing Community with feature additions and patches in projects such as OpenCV, AstroPy, SciPy, Shogun ML Toolkit, Chainer and TensorForce. 
+I graduated from [Indian Institute of Information Technology and Management Gwalior](iiitm.ac.in) in 2020. I have also actively contributed to Open Source Scientific Computing Community with feature additions and patches in projects such as OpenCV, AstroPy, SciPy, Shogun ML Toolkit, Chainer and TensorForce. 
 
 On the side, I maintain [Jupyer Probe](https://pypi.org/project/jupyter-probe/), a library to monitor, manage, declare and analyse notebook resource usage on jupyter environments.
 I am also an avid bird watcher and photographer and post pictures from my adventures on [Instagram](instagram.com/hisblahness).
@@ -76,18 +73,20 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 
 <a name="/news"></a>
 # Updates
-
+- [Oct 22] Our work on **SAHELI Framework** for improving impact of mHealth programs through Restless MultiArmed Bandits got accepted at Innovative Applications of AI conference (**IAAI 2023**) and received **Best Innovative Application Award**!
+- [Dec 21] Our work on [Field Study demonstrating applicability of Restless MultiArmed Bandits in Public Health](https://sites.google.com/nyu.edu/mlph2021/accepted-papers) received **Best Paper Award** at **ML for Public Health Workshop at NeurIPS 2021**
+- [Nov 21] Our work on [**Restless Multi-Armed Bandits in Public Health**](https://ojs.aaai.org/index.php/AAAI/article/view/21460_ got accepted at **AAAI 2022**!
 - [Mar 21] Joined [Google AI India](https://research.google/locations/india/) as Pre-Doctoral Reseacher! Working with [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) within [AI for Social Good](https://ai.google/social-good/).
-- [May 21] I'm volunteering at [ICLR 21](https://iclr.cc/Conferences/2021). See you at the help desk!
+- [May 21] I'm **volunteering** at [**ICLR 21**](https://iclr.cc/Conferences/2021). See you at the help desk!
 - [May 21] Presenting [Towards Sample Efficient Learners in Population based Referential Games through Action Advising- 
-](#/advise) at AAMAS 2021 (Poster).
-- [Feb 21] Invited as a Facilitator in [Reinforcement Learning Data Study Group](https://www.turing.ac.uk/events/reinforcement-learning-study-group-february-2021) at [The Alan Turing Institute, UK](www.turing.ac.uk)!
+]([#/advise](http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1689.pdf)) at AAMAS 2021 (Poster).
+- [Feb 21] Invited as a **Facilitator** in [**Reinforcement Learning Data Study Group**](https://www.turing.ac.uk/events/reinforcement-learning-study-group-february-2021) at [**The Alan Turing Institute, UK**](www.turing.ac.uk)!
 - [Dec 20] Released [JupyterProbe v0.1](https://pypi.org/project/jupyter-probe/). It helps monitor, manage and analyse notebook resource usage on Jupyter environments!
-- [Aug 20] Joined United Health Group as Data Scientist!
-- [July 20] Presenting [Emergence of Multilingualism in Population based Referential Games](#/multilingual) at Workshop on Language in Reinforcement Learning, ICML 2020.
+- [Aug 20] Joined **United Health Group** as **Data Scientist**!
+- [July 20] Presenting [Emergence of Multilingualism in Population based Referential Games]([#/multilingual](https://larel-ws.github.io/assets/pdfs/emergence_of_multilingualism_in_population_based_referential_games.pdf)) at Workshop on Language in Reinforcement Learning, ICML 2020.
 - [Mar 20] I completed my Integrated Masters!
-- [Feb 20] Presenting [Emergence of Writing Systems through Multi-Agent Cooperation](#/writing) at AAAI 2020 (Poster).
-- [Jan 20] Presenting [Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots](#/diagnose-rl) at CoDS-COMAD 2020 (Oral).
+- [Feb 20] Presenting [Emergence of Writing Systems through Multi-Agent Cooperation](https://ojs.aaai.org/index.php/AAAI/article/view/7243) at AAAI 2020 (Poster).
+- [Jan 20] Presenting [Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots](https://dl.acm.org/doi/abs/10.1145/3371158.3371168) at CoDS-COMAD 2020 (Oral).
 - [Jan 20] Presenting [IIITM Face: A Database for Facial Attribute Detection in Constrained and Simulated Unconstrained Environments](#/iiitm) at CoDS-COMAD 2020 (Oral).
 
 <div id="read-more-button">
