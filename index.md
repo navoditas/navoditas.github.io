@@ -105,7 +105,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 <a name="/youdescribe-descriptions-1"></a>
 <h2 class="pubt">Increasing Impact of Mobile Health Programs: SAHELI for Maternal and Child Care</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma, Gargi Singh, Aditya Mate, Paritosh verma, Sruti Gorantala, Neha Madhiwala, Aparna hegde, Divy Thakker, Manish Jain, Milind Tambe, Aparna Taneja  </span> 
+    <span class="authors">Shresth Verma, Gargi Singh, Aditya Mate, Paritosh verma, Sruti Gorantala, Neha Madhiwala, Aparna hegde, Divy Thakker, Manish Jain, Milind Tambe, Aparna Taneja  </span> <br>
     <span class="conf">IAAI 2023, Best Innovative Application Award</span> <span class="links">
         <a target="_blank" href="https://aaai.org/Conferences/AAAI-23/iaai-23-call/">Paper</a>
     </span>
