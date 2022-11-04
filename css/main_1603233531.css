@@ -214,7 +214,7 @@ ul.nav-bar li {
 }
 
 .post section p {
-  font-weight: 800;
+  font-weight: 400;
   font-size: 16px;
   margin: 1em 0;
   text-align: left;
@@ -331,7 +331,7 @@ a:hover, a:focus {
   font-size: 14px;
   display: inline-block; }
 .post section p.pubd .links {
-  display: block;
+/*   display: block; */
   margin: 6px 0 0; }
 .post section p.pubd a:hover {
   -webkit-transition: 0.2s linear;
