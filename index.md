@@ -5,13 +5,16 @@ permalink:  /
 ---
 
 <div class="row">
-    <div class="col-sm-3 col-xs-6">
+    <div class="col-sm-4 col-xs-8">
         <img src="/img/f006c_Ag_400x400.jpeg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Pre-Doctoral Researcher<br>
-        Google AI<br>
-        vermashresth at google dot com
+       Pre-Doctoral Researcher<br>
+        Google Research<br>
+        vermashresth@google.com
+        <br>
+        <br>
+        Developing Multi-Agent systems for bringing social impact at scale
     </div>
 </div>
 <hr>
@@ -25,7 +28,8 @@ I am a Pre-Doctoral Researcher at Google AI India.
 My research focuses on reinforcement learning and multi-agent systems with application in robotics, public health and environmental conservation. On a fundamental research side, I'm interested in developing agents that learn behaviours which are transferable to real-world domains, are scalable through communication and are understandable and acceptable by humans.
 
 Previously, I was a Data Scientist at United Health Group where I worked on modelling healthcare risks for millions of beneficiaries.
-My CV is available [here][33].
+My CV is available <a href="https://vermashresth.github.io/img/Shresth_CV_Research_Clean%20(4).pdf" target="_blank">here</a>
+.
 
 <div class="row" id="timeline-logos">
     <div class="col-lg-3">
