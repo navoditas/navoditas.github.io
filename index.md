@@ -16,9 +16,8 @@ permalink:  /
 </div>
 <hr>
 
-<a name="/news"></a>
 
-
+<a name="/bio"></a>
 # Bio
 
 I am a Pre-Doctoral Researcher at Google AI India.
@@ -71,8 +70,7 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 
 ---
 
-<a name="/publications"></a>
-
+<a name="/news"></a>
 # Updates
 
 - [Mar 21] Joined [Google AI India](https://research.google/locations/india/) as Pre-Doctoral Reseacher! Working with [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) within [AI for Social Good](https://ai.google/social-good/).
@@ -94,8 +92,8 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 
 <hr>
 
-<a name="/bio"></a>
 
+<a name="/publications"></a>
 # Publications
 
 <a name="/youdescribe-descriptions-1"></a>
