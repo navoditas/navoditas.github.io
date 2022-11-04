@@ -18,28 +18,6 @@ permalink:  /
 
 <a name="/news"></a>
 
-# News
-
-- [Mar 21] Joined [Google AI India](https://research.google/locations/india/) as Pre-Doctoral Reseacher! Working with [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) within [AI for Social Good](https://ai.google/social-good/).
-- [May 21] I'm volunteering at [ICLR 21](https://iclr.cc/Conferences/2021). See you at the help desk!
-- [May 21] Presenting [Towards Sample Efficient Learners in Population based Referential Games through Action Advising- 
-](#/advise) at AAMAS 2021 (Poster).
-- [Feb 21] Invited as a Facilitator in [Reinforcement Learning Data Study Group](https://www.turing.ac.uk/events/reinforcement-learning-study-group-february-2021) at [The Alan Turing Institute, UK](www.turing.ac.uk)!
-- [Dec 20] Released [JupyterProbe v0.1](https://pypi.org/project/jupyter-probe/). It helps monitor, manage and analyse notebook resource usage on Jupyter environments!
-- [Aug 20] Joined United Health Group as Data Scientist!
-- [July 20] Presenting [Emergence of Multilingualism in Population based Referential Games](#/multilingual) at Workshop on Language in Reinforcement Learning, ICML 2020.
-- [Mar 20] I completed my Integrated Masters!
-- [Feb 20] Presenting [Emergence of Writing Systems through Multi-Agent Cooperation](#/writing) at AAAI 2020 (Poster).
-- [Jan 20] Presenting [Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots](#/diagnose-rl) at CoDS-COMAD 2020 (Oral).
-- [Jan 20] Presenting [IIITM Face: A Database for Facial Attribute Detection in Constrained and Simulated Unconstrained Environments](#/iiitm) at CoDS-COMAD 2020 (Oral).
-
-<div id="read-more-button">
-    <a nohref>Read more</a>
-</div>
-
-<hr>
-
-<a name="/bio"></a>
 
 # Bio
 
@@ -94,6 +72,29 @@ I am also an avid bird watcher and photographer and post pictures from my advent
 ---
 
 <a name="/publications"></a>
+
+# Updates
+
+- [Mar 21] Joined [Google AI India](https://research.google/locations/india/) as Pre-Doctoral Reseacher! Working with [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) within [AI for Social Good](https://ai.google/social-good/).
+- [May 21] I'm volunteering at [ICLR 21](https://iclr.cc/Conferences/2021). See you at the help desk!
+- [May 21] Presenting [Towards Sample Efficient Learners in Population based Referential Games through Action Advising- 
+](#/advise) at AAMAS 2021 (Poster).
+- [Feb 21] Invited as a Facilitator in [Reinforcement Learning Data Study Group](https://www.turing.ac.uk/events/reinforcement-learning-study-group-february-2021) at [The Alan Turing Institute, UK](www.turing.ac.uk)!
+- [Dec 20] Released [JupyterProbe v0.1](https://pypi.org/project/jupyter-probe/). It helps monitor, manage and analyse notebook resource usage on Jupyter environments!
+- [Aug 20] Joined United Health Group as Data Scientist!
+- [July 20] Presenting [Emergence of Multilingualism in Population based Referential Games](#/multilingual) at Workshop on Language in Reinforcement Learning, ICML 2020.
+- [Mar 20] I completed my Integrated Masters!
+- [Feb 20] Presenting [Emergence of Writing Systems through Multi-Agent Cooperation](#/writing) at AAAI 2020 (Poster).
+- [Jan 20] Presenting [Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots](#/diagnose-rl) at CoDS-COMAD 2020 (Oral).
+- [Jan 20] Presenting [IIITM Face: A Database for Facial Attribute Detection in Constrained and Simulated Unconstrained Environments](#/iiitm) at CoDS-COMAD 2020 (Oral).
+
+<div id="read-more-button">
+    <a nohref>Read more</a>
+</div>
+
+<hr>
+
+<a name="/bio"></a>
 
 # Publications
 
