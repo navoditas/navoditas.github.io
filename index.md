@@ -23,7 +23,9 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the [AI for Social Good lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) mentored by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). My work focuses on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India. I'm interested in reinforcement learning and multi-agent systems with application in robotics, public health and environmental conservation. I want to develop agents that learn behaviours which are transferable to real-world domains, are scalable through communication and are understandable and acceptable by humans.
+I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the [AI for Social Good lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) mentored by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). My work focuses on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India.
+
+I'm interested in reinforcement learning and multi-agent systems with applications in robotics, public health and environmental conservation. I want to develop agents that learn behaviours which are transferable to real-world domains, are scalable through communication and are understandable and acceptable by humans.
 
 Previously, I was a Data Scientist at United Health Group where I worked on modelling healthcare risks for millions of beneficiaries.
 My CV is available <a href="https://vermashresth.github.io/img/Shresth_CV_Research_Clean%20(4).pdf" target="_blank">here</a>
