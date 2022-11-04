@@ -14,7 +14,7 @@ permalink:  /
         vermashresth@google.com
         <br>
         <br>
-        Developing Multi-Agent systems for bringing social impact at scale
+        Developing Multi-Agent systems for bringing Social Impact at Scale
     </div>
 </div>
 <hr>
@@ -23,7 +23,7 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Pre-Doctoral Researcher at Google AI India.
+I am a Pre-Doctoral Researcher within Google Research India.
 
 My research focuses on reinforcement learning and multi-agent systems with application in robotics, public health and environmental conservation. On a fundamental research side, I'm interested in developing agents that learn behaviours which are transferable to real-world domains, are scalable through communication and are understandable and acceptable by humans.
 
