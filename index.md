@@ -33,31 +33,31 @@ Previously, I was a Research Intern at Adobe Research, Bengaluru. I worked with 
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="https://home.iitd.ac.in/"><img style="width:60px;" src="/img/logos/Logo.jpg"></a>
+            <a href="https://home.iitd.ac.in/"><img style="width:60px;" src="/img/IITD_Logo.png"></a>
         </div>
         <div class="logo-desc">
             IIT Delhi<br>
-            2018 - 2022
+            June 2018 - May 2022
         </div>
     </div>
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.unitedhealthgroup.com/"><img style="width:150px;" src="/img/logos/uhg2.jpg"></a>
+            <a href="https://research.adobe.com/"><img style="width:150px;" src="/img/Adobe_logo.png"></a>
         </div>
         <div class="logo-desc">
-            UnitedHealth Group<br>
-            S2019, 2020-2021
+            Adobe Research<br>
+            May 2021 - August 2021
         </div>
     </div>
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://research.google/locations/india/"><img style="width:150px;" src="/img/logos/gglai.png"></a>
+            <a href="//https://research.google/locations/india/"><img style="width:150px;" src="/img/Google_Research_logo.png"></a>
         </div>
         <div class="logo-desc">
-            Google AI<br>
-            2021 - present
+            Google Research<br>
+            July 2022 - present
         </div>
     </div>
 </div>
