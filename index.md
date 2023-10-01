@@ -6,12 +6,12 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-4 col-xs-8">
-        <img src="/img/f006c_Ag_400x400.jpeg">
+        <img src="/img/anand_photo_1.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
        Pre-Doctoral Researcher<br>
         Google Research<br>
-        vermashresth@google.com
+        anandpareshb@google.com
         <br>
         <br>
         Developing Multi-Agent systems for bringing Social Impact at Scale
