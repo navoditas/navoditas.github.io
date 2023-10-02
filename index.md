@@ -11,8 +11,8 @@ permalink:  /
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
        Pre-Doctoral Researcher<br>
         Google Research<br>
-        anandpareshb@google.com
-        <br>
+        anandpareshb@google.com<br>
+        anandbrahmbhatt27@gmail.com
         <br>
     </div>
 </div>
