@@ -25,7 +25,7 @@ permalink:  /
 
 I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the Advertising Sciences Team mentored by [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Aravindan Raghuveer](https://research.google/people/107631/). My work focuses on developing an understanding of the learnability of aggregate data and the privacy afforded by forming such aggregations.
 
-I am broadly interested in Learning Theory, Generalization, Differential Privacy and Fairness in Machine Learning. I want to develop a more abstract understanding of learning algorithms.
+I am broadly interested in Learning Theory, Generalization, Differential Privacy and Fairness in Machine Learning. I want to develop a more abstract understanding of learning algorithms and how these relate to deeper concepts in Mathematics.
 
 Previously, I was a Research Intern at Adobe Research, Bengaluru. I worked with [Dr. Shiv Kumar Saini](https://research.adobe.com/person/shiv-kumar-saini/) and [Dr. Atanu R Sinha](https://research.adobe.com/person/atanu-sinha/) on developing methods for fairer Cloud Resource Allocation. My CV is available <a href="https://anand.github.io/img/Resume_Improved%20(1).pdf" target="_blank">here</a>.
 
