@@ -14,7 +14,6 @@ permalink:  /
         anandpareshb@google.com
         <br>
         <br>
-        Scalable Algorithms for Learning from Aggregate Data
     </div>
 </div>
 <hr>
