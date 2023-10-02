@@ -88,7 +88,7 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 <h2 class="pubt">PAC Learning Linear Thresholds from Label Proportions</h2>
 <p class="pubd">
     <span class="authors">Anand Brahmbhatt*, Rishi Saket*, Aravindan Raghuveer  </span> <br>
-    <span class="conf">NeurIPS 2023, Spotlight Paper</span> <span class="links">
+    <span class="conf">Spotlight Paper @ NeurIPS 2023</span> <span class="links">
         <a target="_blank" href="">Paper</a>
     </span>
 </p>
@@ -99,7 +99,7 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 <h2 class="pubt">Label Differential Privacy via Aggregation</h2>
 <p class="pubd">
     <span class="authors">Anand Brahmbhatt, Rishi Saket, Shreyas Havaldar, Anshul Nasery, Aravindan Raghuveer</span><br> 
-    <span class="conf">Preprint</span>  <span class="links">
+    <span class="conf">Preprint (under submission @ ITCS 2024)</span>  <span class="links">
         <a target="_blank" href="">Paper</a>
     </span>
 </p>
@@ -121,7 +121,7 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 <h2 class="pubt">Towards Fair and Calibrated Models</h2>
 <p class="pubd">
     <span class="authors">Anand Brahmbhatt, Vipul Rathore, Parag Singla, Mausam</span><br> 
-    <span class="conf">Preprint</span>  <span class="links">
+    <span class="conf">Preprint (under submission @ AAAI 2024)</span>  <span class="links">
         <a target="_blank" href="">Paper</a>
     </span>
 </p>
