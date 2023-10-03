@@ -68,10 +68,10 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 
 <a name="/news"></a>
 # Updates
-- [September 2023] Our paper **PAC Learning Linear Thresholds from Label Proportions** got accepted to **NeurIPS 2023** as a **Spotlight**. I'll be attending **NeurIPS 2023** in New Orleans and will be presenting this work as a poster.
-- [August 2023] US Patent approved for our work on **Cloud Based Resource Allocation using Meters** at **Adobe Research**.
+- [September 2023] Our paper **PAC Learning Linear Thresholds from Label Proportions** got accepted to **NeurIPS 2023** as a **Spotlight**. I'll be attending NeurIPS 2023 in New Orleans and will be presenting this work as a poster.
+- [August 2023] **US Patent** approved for our work on **Cloud Based Resource Allocation using Meters** at **Adobe Research**.
 - [July 2022] Joined [**Google Research India**](https://research.google/locations/india/) as **Pre-Doctoral Researcher** in the **Ad Sciences Team**.
-- [May 2022] Completed my Bachelors in Computer Science and Engineering at IIT Delhi.
+- [May 2022] Completed my **Bachelors in Computer Science and Engineering at IIT Delhi**.
 - [May 2021] Joined **Adobe Research, Bengaluru** as a **Research Intern**.
 
 <div id="read-more-button">
