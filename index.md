@@ -14,6 +14,14 @@ permalink:  /
         anandpareshb@google.com<br>
         anandbrahmbhatt27@gmail.com
         <br>
+        <br>
+        Learning Theory
+        <br>
+        Generalization
+        <br>
+        Differential Privacy
+        <br>
+        Fairness
     </div>
 </div>
 <hr>
