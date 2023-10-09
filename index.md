@@ -15,6 +15,8 @@ permalink:  /
         anandbrahmbhatt27@gmail.com
         <br>
         <br>
+        <b>Research Interests</b>
+        <br>
         Learning Theory
         <br>
         Generalization
