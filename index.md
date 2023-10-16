@@ -12,7 +12,8 @@ permalink:  /
        Pre-Doctoral Researcher<br>
         Google Research<br>
         anandpareshb@google.com<br>
-        anandbrahmbhatt27@gmail.com
+        anandbrahmbhatt27@gmail.com<br>
+        anand.brahmbhatt@iitdalumni.com
         <br>
         <br>
         <b>Research Interests</b>
@@ -156,7 +157,7 @@ Manupriya Gupta, Anand Brahmbhatt, Ayush Chauhan</span><br>
 <p class="pubd">
     <span class="authors">Amitabha Tripathi, Anand Brahmbhatt, Kartikeya Rai</span><br> 
     <span class="conf">Preprint</span>  <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://anand-10-prog.github.io/img/measures_of_closeness_to_cordiality_summary_of_results">Summary of Results</a>
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->
