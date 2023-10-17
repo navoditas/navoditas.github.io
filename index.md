@@ -33,7 +33,7 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the Advertising Sciences Team mentored by [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Aravindan Raghuveer](https://research.google/people/107631/). My work focuses on developing an understanding of the learnability of aggregate data and the privacy afforded by forming such aggregations. My CV is available <a href="https://anand-10-prog.github.io/img/Anand_CV.pdf" target="_blank">here</a>.
+I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the Advertising Sciences Team mentored by [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Aravindan Raghuveer](https://research.google/people/107631/). My work focuses on developing an understanding of the learnability of aggregate data and the privacy afforded by forming such aggregations. My CV is available <a href="https://anand-10-prog.github.io/img/Anand_CV_final.pdf" target="_blank">here</a>.
 
 I am broadly interested in Learning Theory, Generalization, Differential Privacy and Fairness in Machine Learning. I want to develop a more abstract understanding of learning algorithms and how these relate to deeper concepts in Mathematics.
 
