@@ -94,14 +94,14 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 
 
 <a name="/publications"></a>
-# Publications
+# Publications & Patents
 
 <a name="/youdescribe-descriptions-1"></a>
 <h2 class="pubt">PAC Learning Linear Thresholds from Label Proportions</h2>
 <p class="pubd">
     <span class="authors">Anand Brahmbhatt*, Rishi Saket*, Aravindan Raghuveer  </span> <br>
     <span class="conf">Spotlight Paper @ NeurIPS 2023</span> <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2310.10098">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->
@@ -112,7 +112,7 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 <p class="pubd">
     <span class="authors">Anand Brahmbhatt, Rishi Saket, Shreyas Havaldar, Anshul Nasery, Aravindan Raghuveer</span><br> 
     <span class="conf">Preprint (under submission @ ITCS 2024)</span>  <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2310.10092">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->
@@ -123,7 +123,7 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 <p class="pubd">
     <span class="authors">Anand Brahmbhatt*, Mohith Pokala*, Rishi Saket, Aravindan Raghuveer</span><br> 
     <span class="conf">Preprint</span>  <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2310.10096">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->
@@ -134,7 +134,7 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 <p class="pubd">
     <span class="authors">Anand Brahmbhatt, Vipul Rathore, Parag Singla, Mausam</span><br> 
     <span class="conf">Preprint (under submission @ AAAI 2024)</span>  <span class="links">
-        <a target="_blank" href="">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2310.10399">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->
