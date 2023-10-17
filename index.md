@@ -131,7 +131,7 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 <a name="/youdescribe-descriptions-1"></a>
 <h2 class="pubt">Towards Fair and Calibrated Models</h2>
 <p class="pubd">
-    <span class="authors">Anand Brahmbhatt, Vipul Rathore, Parag Singla, Mausam</span><br> 
+    <span class="authors">Anand Brahmbhatt, Vipul Rathore, Mausam, Parag Singla</span><br> 
     <span class="conf">Preprint (under submission @ AAAI 2024)</span>  <span class="links">
         <a target="_blank" href="https://arxiv.org/abs/2310.10399">Paper</a>
     </span>
