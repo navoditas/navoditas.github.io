@@ -9,8 +9,7 @@ permalink:  /
         <img src="/img/anand_photo_1.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-       Pre-Doctoral Researcher<br>
-        Google Research<br>
+        Pre-Doctoral Researcher, Google Research<br>
         anandpareshb@google.com<br>
         anandbrahmbhatt27@gmail.com<br>
         anand.brahmbhatt@iitdalumni.com
