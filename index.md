@@ -10,9 +10,9 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Pre-Doctoral Researcher, Google Research<br>
-        anandpareshb [at] google [dot] com<br>
-        anandbrahmbhatt27 [at] gmail [dot] com<br>
-        anand [dot] brahmbhatt [at] iitdalumni [dot] com
+        anandpareshb[at]google[dot]com<br>
+        anandbrahmbhatt27[at]gmail[dot]com<br>
+        anand[dot]brahmbhatt[at]iitdalumni[dot]com
         <br>
         <br>
         <b>Research Interests</b>
