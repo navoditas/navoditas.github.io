@@ -71,12 +71,14 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 
 <a name="/news"></a>
 # Updates
-- [September 2023] Our paper **PAC Learning Linear Thresholds from Label Proportions** got accepted to **NeurIPS 2023** as a **Spotlight**. I'll be attending NeurIPS 2023 in New Orleans and will be presenting this work as a poster.
-- [August 2023] **US Patent** approved for our work on **Cloud Based Resource Allocation using Meters** at **Adobe Research**.
+- [October 2023] Our paper **Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation** got accepted to **Regulatable ML Workshop at NeurIPS 2023** as an **Oral Presentation**. I'll be attending NeurIPS 2023 in New Orleans and will be presenting this work.
 - [July 2023] Attended **Conference on Learning Theory (COLT), 2023** in Bengaluru.
-- [July 2022] Joined [**Google Research India**](https://research.google/locations/india/) as **Pre-Doctoral Researcher** in the **Ad Sciences Team**.
-- [May 2022] Completed my **Bachelors in Computer Science and Engineering at IIT Delhi**.
-- [May 2021] Joined **Adobe Research, Bengaluru** as a **Research Intern**.
+- [July 2022] Joined [**Google Research India**](https://research.google/locations/india/) as a **Research Software Engineer** in the **Advertising Sciences Team**.
+- [June 2021] Completed my **Dual Degree (Bachelors + Masters) in Computer Science and Engineering from IIT Madras**.
+- [April 2021] Joined [**Google Research India**](https://research.google/locations/india/) as a **Research Intern** in the **Advertising Sciences Team**. 
+- [January 2021] Attended **International Joint Conference on Artificial Intelligence (IJCAI), 2020** virtually. Presented my paper as a poster.
+- [April 2020] Our paper **Temporal attribute prediction via joint modeling of multi-relational structure evolution** got accepted to **IJCAI 2020** as a poster.
+- [May 2019] Joined **Viterbi School of Engineering, USC** as a **Research Intern**. Was one of the **15 students** selected from India through the **IUSSTF-Viterbi program**.
 
 <div id="read-more-button">
     <a nohref>Read more</a>
