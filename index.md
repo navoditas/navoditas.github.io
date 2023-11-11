@@ -25,47 +25,13 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the Advertising Sciences Team mentored by [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Aravindan Raghuveer](https://research.google/people/107631/). My work focuses on developing an understanding of the learnability of aggregate data and the privacy afforded by forming such aggregations. My CV is available <a href="https://anand-10-prog.github.io/img/Anand_CV_final.pdf" target="_blank">here</a>.
-
-I am broadly interested in Learning Theory, Generalization, Differential Privacy and Fairness in Machine Learning. I want to develop a more abstract understanding of learning algorithms and how these relate to deeper concepts in Mathematics.
-
-Previously, I was a Research Intern at Adobe Research, Bengaluru. I worked with [Dr. Shiv Kumar Saini](https://research.adobe.com/person/shiv-kumar-saini/) and [Dr. Atanu R Sinha](https://research.adobe.com/person/atanu-sinha/) on developing methods for fairer Cloud Resource Allocation.
-
-<div class="row" id="timeline-logos">
-    <div class="col-lg-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a href="https://home.iitd.ac.in/"><img style="width:60px;" src="/img/IITD_Logo.png"></a>
-        </div>
-        <div class="logo-desc">
-            IIT Delhi<br>
-            June 2018 - May 2022
-        </div>
-    </div>
-    <div class="col-lg-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a href="https://research.adobe.com/"><img style="width:150px;" src="/img/Adobe_logo.png"></a>
-        </div>
-        <div class="logo-desc">
-            Adobe Research<br>
-            May 2021 - August 2021
-        </div>
-    </div>
-    <div class="col-lg-3">
-        <div class="logo-wrap">
-            <span class="helper"></span>
-            <a href="//https://research.google/locations/india/"><img style="width:150px;" src="/img/Google_Research_logo.png"></a>
-        </div>
-        <div class="logo-desc">
-            Google Research<br>
-            July 2022 - present
-        </div>
-    </div>
-</div>
+I am a Research Software Engineer at [Google Research India](https://research.google/locations/india/), working in the Advertising Sciences Team mentored by [Dr. Aravindan Raghuveer](https://research.google/people/107631/), [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Karthikeyan Shanmugan](https://research.google/people/KarthikeyanShanmugam/). My research interests lie primarily in the area of Reinforcement Learning and its applications.
 
 
-I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/) in 2022. I completed my undergraduate thesis under the guidance of [Prof. Parag Singla](https://www.cse.iitd.ac.in/~parags/) and [Prof. Mausam](https://www.cse.iitd.ac.in/~mausam/). The focus of my research there was to identify reasons and figure out ways to mitigate "Bias Amplification in Deep Networks". I was also mentored by [Prof. Amitabha Tripathi](https://web.iitd.ac.in/~atripath/) with whom I did a summer project on Graph Labelings.
+Before this role, I was a Research Intern at Google Research India. I worked with [Dr. Aravindan Raghuveer](https://research.google/people/107631/) and [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) on Imitation Learning in the absence of environmental access. Prior to this, I interned at Viterbi School of Engineering USC where, under the guidance of [Prof. Xiang Ren](https://shanzhenren.github.io), I worked on Time Series prediction using Knowledge Graphs.
+
+
+I completed my Dual Degree (Bachelors + Masters) from [Indian Institute of Technology, Madras](https://www.iitm.ac.in) in 2021. My Dual Degree Thesis, under the guidance of [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/), focused on Behavioral Cloning for multi-agent Traffic Signal Control.
 
 ---
 
