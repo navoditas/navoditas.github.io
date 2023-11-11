@@ -89,71 +89,24 @@ I graduated from [Indian Institute of Technology, Delhi](https://home.iitd.ac.in
 # Publications & Patents
 
 <a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">PAC Learning Linear Thresholds from Label Proportions</h2>
+<h2 class="pubt">Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation</h2>
 <p class="pubd">
-    <span class="authors">Anand Brahmbhatt*, Rishi Saket*, Aravindan Raghuveer  </span> <br>
-    <span class="conf">Spotlight Paper @ NeurIPS 2023</span> <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2310.10098">Paper</a>
+    <span class="authors">Shreyas Havaldar*, Navodita Sharma*, Shubhi Sareen, Karthikeyan Shanmugam, Aravindan Raghuveer </span> <br>
+    <span class="conf">Oral Presentation @ Regulatable ML Workshop, NeurIPS 2023 (Under Review @ ICLR 2024)</span> <span class="links">
+        <a target="_blank" href="https://arxiv.org/pdf/2310.08056.pdf">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->
 <!-- <hr> -->
 
 <a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">Label Differential Privacy via Aggregation</h2>
+<h2 class="pubt">Temporal attribute prediction via joint modeling of multi-relational structure evolution</h2>
 <p class="pubd">
-    <span class="authors">Anand Brahmbhatt, Rishi Saket, Shreyas Havaldar, Anshul Nasery, Aravindan Raghuveer</span><br> 
-    <span class="conf">Preprint (under submission @ ITCS 2024)</span>  <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2310.10092">Paper</a>
+    <span class="authors">Sankalp Garg*, Navodita Sharma*, Woojeong Jin, Xiang Ren</span><br> 
+    <span class="conf">IJCAI 2020</span>  <span class="links">
+        <a target="_blank" href="https://www.ijcai.org/Proceedings/2020/0386.pdf">Paper</a>
     </span>
 </p>
-<!-- <img src="/img/aamas.png"> -->
-<!-- <hr> -->
-
-<a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">LLP-Bench: A Large Scale Tabular Benchmark for Learning from Label Proportions</h2>
-<p class="pubd">
-    <span class="authors">Anand Brahmbhatt*, Mohith Pokala*, Rishi Saket, Aravindan Raghuveer</span><br> 
-    <span class="conf">Preprint</span>  <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2310.10096">Paper</a>
-    </span>
-</p>
-<!-- <img src="/img/aamas.png"> -->
-<!-- <hr> -->
-
-<a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">Towards Fair and Calibrated Models</h2>
-<p class="pubd">
-    <span class="authors">Anand Brahmbhatt, Vipul Rathore, Mausam, Parag Singla</span><br> 
-    <span class="conf">Preprint (under submission @ AAAI 2024)</span>  <span class="links">
-        <a target="_blank" href="https://arxiv.org/abs/2310.10399">Paper</a>
-    </span>
-</p>
-<!-- <img src="/img/aamas.png"> -->
-<!-- <hr> -->
-
-<a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">Cloud Based Resource Allocation Using Meters</h2>
-<p class="pubd">
-    <span class="authors">Atanu R Sinha, Shiv Kumar Saini, Sapthotharan Nair, Saarthak Marathe,
-Manupriya Gupta, Anand Brahmbhatt, Ayush Chauhan</span><br> 
-    <span class="conf">US Patent 20230259403</span>  <span class="links">
-        <a target="_blank" href="https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230259403">Patent</a>
-    </span>
-</p>
-<!-- <img src="/img/aamas.png"> -->
-<!-- <hr> -->
-
-<a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">Measures for Closeness to Cordiality for Graphs</h2>
-<p class="pubd">
-    <span class="authors">Amitabha Tripathi, Anand Brahmbhatt, Kartikeya Rai</span><br> 
-    <span class="conf">Preprint</span>  <span class="links">
-        <a target="_blank" href="https://anand-10-prog.github.io/img/Measures_of_closeness_to_cordiality_for_graphs_summary_of_results.pdf">Summary of Results</a>
-    </span>
-</p>
-<!-- <img src="/img/aamas.png"> -->
-<!-- <hr> -->
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">
