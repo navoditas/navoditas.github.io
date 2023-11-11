@@ -9,21 +9,14 @@ permalink:  /
         <img src="/img/navs.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Pre-Doctoral Researcher, Google Research<br>
-        anandpareshb[at]google[dot]com<br>
-        anandbrahmbhatt27[at]gmail[dot]com<br>
-        anand[dot]brahmbhatt[at]iitdalumni[dot]com
+        Research Software Engineer, Google Research<br>
+        navoditasharma[at]google[dot]com<br>
+        navoditasharma16[at]gmail[dot]com<br>
         <br>
         <br>
         <b>Research Interests</b>
         <br>
-        Learning Theory
-        <br>
-        Generalization
-        <br>
-        Differential Privacy
-        <br>
-        Fairness
+        Reinforcement Learning
     </div>
 </div>
 <hr>
