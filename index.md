@@ -1,4 +1,4 @@
----
+]---
 layout:     page
 title:
 permalink:  /
@@ -6,7 +6,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-4 col-xs-8">
-        <img src="/img/anand_photo_1.jpg">
+        <img src="/img/navs.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Pre-Doctoral Researcher, Google Research<br>
