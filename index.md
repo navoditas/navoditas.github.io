@@ -17,6 +17,12 @@ permalink:  /
         <b>Research Interests</b>
         <br>
         Reinforcement Learning
+        <br>
+        Imitation Learning
+        <br>
+        Offlne RL
+        <br>
+        Meta-Learning
     </div>
 </div>
 <hr>
