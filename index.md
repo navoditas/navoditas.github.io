@@ -20,7 +20,7 @@ permalink:  /
         <br>
         Imitation Learning
         <br>
-        Offlne RL
+        Offline RL
         <br>
         Meta-Learning
     </div>
