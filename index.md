@@ -25,13 +25,13 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Research Software Engineer at [Google Research India](https://research.google/locations/india/), working in the Advertising Sciences Team mentored by [Dr. Aravindan Raghuveer](https://research.google/people/107631/), [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Karthikeyan Shanmugan](https://research.google/people/KarthikeyanShanmugam/). My research interests lie primarily in the area of Reinforcement Learning and its applications.
+I am a Research Software Engineer at [Google Research India](https://research.google/locations/india/). My research interests lie primarily in the area of Reinforcement Learning and its applications.
 
+I am currently working on Offline Reinforcement Learning with Differential Privacy in collaboration with [Dr. Alekh Agarwal](https://alekhagarwal.net), [Dr. Christoph Dann](https://cdann.net), [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Aravindan Raghuveer](https://research.google/people/107631/). Parallely, I am also working on developing solutions for Learning from Aggregated Data to preserve data privacy, mentored by [Dr. Aravindan Raghuveer](https://research.google/people/107631/), [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Karthikeyan Shanmugan](https://research.google/people/KarthikeyanShanmugam/). 
 
 Before this role, I was a Research Intern at Google Research India. I worked with [Dr. Aravindan Raghuveer](https://research.google/people/107631/) and [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) on Imitation Learning in the absence of environmental access. Prior to this, I interned at Viterbi School of Engineering USC where, under the guidance of [Prof. Xiang Ren](https://shanzhenren.github.io), I worked on Time Series prediction using Knowledge Graphs.
 
-
-I completed my Dual Degree (Bachelors + Masters) from [Indian Institute of Technology, Madras](https://www.iitm.ac.in) in 2021. My Dual Degree Thesis, under the guidance of [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/), focused on Behavioral Cloning for multi-agent Traffic Signal Control.
+I completed my Dual Degree (Bachelors + Masters) in Computer Science and Engineering from [Indian Institute of Technology, Madras](https://www.iitm.ac.in) in 2021. My Dual Degree Thesis, under the guidance of [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/), focused on Behavioral Cloning for multi-agent Traffic Signal Control.
 
 ---
 
@@ -54,7 +54,7 @@ I completed my Dual Degree (Bachelors + Masters) from [Indian Institute of Techn
 
 
 <a name="/publications"></a>
-# Publications & Patents
+# Publications
 
 <a name="/youdescribe-descriptions-1"></a>
 <h2 class="pubt">Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation</h2>
