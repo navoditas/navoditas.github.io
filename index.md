@@ -43,6 +43,7 @@ I completed my Dual Degree (Bachelors + Masters) in Computer Science and Enginee
 
 <a name="/news"></a>
 # Updates
+- [December 2023] Our paper **Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation** got accepted to **ICLR 2024**.
 - [December 2023] Our paper **Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation** got accepted to **Regulatable ML Workshop at NeurIPS 2023** as an **Oral Presentation**. I presented this work at NeurIPS 2023 in New Orleans.
 - [July 2023] Attended **Conference on Learning Theory (COLT), 2023** in Bengaluru.
 - [July 2022] Joined [**Google Research India**](https://research.google/locations/india/) as a **Research Software Engineer** in the **Advertising Sciences Team**.
@@ -66,7 +67,7 @@ I completed my Dual Degree (Bachelors + Masters) in Computer Science and Enginee
 <h2 class="pubt">Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation</h2>
 <p class="pubd">
     <span class="authors">Shreyas Havaldar*, Navodita Sharma*, Shubhi Sareen, Karthikeyan Shanmugam, Aravindan Raghuveer </span> <br>
-    <span class="conf">Oral Presentation @ Regulatable ML Workshop, NeurIPS 2023 (Under Review @ ICLR 2024)</span> <span class="links">
+    <span class="conf"> ICLR 2024, Oral @ Regulatable ML Workshop, NeurIPS 2023</span> <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2310.08056.pdf">Paper</a>
     </span>
 </p>
