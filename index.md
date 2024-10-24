@@ -9,7 +9,7 @@ permalink:  /
         <img src="/img/navs.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Research Software Engineer, Google Research<br>
+        Research Engineer, Google DeepMind<br>
         navoditasharma[at]google[dot]com<br>
         navoditasharma16[at]gmail[dot]com<br>
         <br>
@@ -31,7 +31,7 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Research Software Engineer at [Google Deepmind](https://research.google/locations/india/). My research interests lie primarily in the area of Reinforcement Learning and its applications.
+I am a Research Engineer at Google Deepmind. My research interests lie primarily in the area of Reinforcement Learning and its applications.
 
 My latest research involves developing differentially private algorithms for offline reinforcement learning, in collaboration with [Dr. Alekh Agarwal](https://alekhagarwal.net), [Dr. Abhradeep Guha Thakurta](https://athakurta.squarespace.com) and [Dr. Christoph Dann](https://cdann.net) (paper in review at AISTATS 2025).
 
