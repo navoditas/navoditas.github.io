@@ -31,9 +31,13 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Research Software Engineer at [Google Research India](https://research.google/locations/india/). My research interests lie primarily in the area of Reinforcement Learning and its applications.
+I am a Research Software Engineer at [Google Deepmind](https://research.google/locations/india/). My research interests lie primarily in the area of Reinforcement Learning and its applications.
 
-I am currently working on Offline Reinforcement Learning with Differential Privacy in collaboration with [Dr. Alekh Agarwal](https://alekhagarwal.net), [Dr. Christoph Dann](https://cdann.net), [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Aravindan Raghuveer](https://research.google/people/107631/). In parallel, I am also working on developing solutions for Learning from Aggregated Data to preserve data privacy, mentored by [Dr. Aravindan Raghuveer](https://research.google/people/107631/), [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Karthikeyan Shanmugan](https://research.google/people/KarthikeyanShanmugam/). 
+My latest research involves developing differentially private algorithms for offline reinforcement learning, in collaboration with [Dr. Alekh Agarwal](https://alekhagarwal.net), [Dr. Abhradeep Guha Thakurta](https://athakurta.squarespace.com) and [Dr. Christoph Dann](https://cdann.net) (paper in review at AISTATS 2025).
+
+Currently, I'm exploring how reinforcement learning can facilitate continual learning in LLM agents. I’m also working on using RL techniques for generating synthetic data to train LLMs.
+
+Additionally, I’m involved in a project aimed at automating the discovery of interpretable policies from neuroscience data. In the past, I have worked on developing solutions for learning from aggregated data to preserve data privacy, mentored by [Dr. Aravindan Raghuveer](https://research.google/people/107631/), [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Karthikeyan Shanmugan](https://research.google/people/KarthikeyanShanmugam/).
 
 Before this role, I was a Research Intern at Google Research India. I worked with [Dr. Aravindan Raghuveer](https://research.google/people/107631/) and [Prof. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) on Imitation Learning in the absence of environmental access. Prior to this, I interned at Viterbi School of Engineering USC where, under the guidance of [Prof. Xiang Ren](https://shanzhenren.github.io), I worked on Time Series prediction using Knowledge Graphs.
 
