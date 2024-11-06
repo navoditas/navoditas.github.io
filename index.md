@@ -18,11 +18,9 @@ permalink:  /
         <br>
         Reinforcement Learning
         <br>
-        Imitation Learning
-        <br>
         Offline RL
         <br>
-        Meta-Learning
+        Imitation Learning
     </div>
 </div>
 <hr>
