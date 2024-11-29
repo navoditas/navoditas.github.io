@@ -29,9 +29,9 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Research Engineer at Google Deepmind. My research interests lie primarily in the area of Reinforcement Learning and its applications.
+I am a Research Engineer at Google DeepMind. My research interests lie primarily in the area of Reinforcement Learning and its applications.
 
-My latest research involves developing differentially private algorithms for offline reinforcement learning, in collaboration with [Dr. Alekh Agarwal](https://alekhagarwal.net), [Dr. Abhradeep Guha Thakurta](https://athakurta.squarespace.com) and [Dr. Christoph Dann](https://cdann.net) (paper in review at AISTATS 2025).
+My latest research involved developing differentially private algorithms for offline reinforcement learning, in collaboration with [Dr. Alekh Agarwal](https://alekhagarwal.net), [Dr. Abhradeep Guha Thakurta](https://athakurta.squarespace.com) and [Dr. Christoph Dann](https://cdann.net).
 
 Currently, I'm exploring how reinforcement learning can facilitate continual learning in LLM agents. I’m also working on using RL techniques for generating synthetic data to train LLMs.
 
@@ -63,7 +63,25 @@ I completed my Dual Degree (Bachelors + Masters) in Computer Science and Enginee
 
 
 <a name="/publications"></a>
-# Publications
+# Publications & Preprints
+
+<a name="/youdescribe-descriptions-1"></a>
+<h2 class="pubt">Preserving Expert-Level Privacy in Offline Reinforcement Learning</h2>
+<p class="pubd">
+    <span class="authors">Navodita Sharma, Vishnu Vinod, Abhradeep Thakurta, Alekh Agarwal, Borja Balle, Christoph Dann, Aravindan Raghuveer </span> <br>
+    <span class="conf"> arXiv preprint arXiv:2411.13598 (Under review at AISTATS 2025)</span> <span class="links">
+        <a target="_blank" href="https://arxiv.org/pdf/2411.13598">Paper</a>
+    </span>
+</p>
+
+<a name="/youdescribe-descriptions-1"></a>
+<h2 class="pubt">Learning from Label Proportions and Covariate-shifted Instances</h2>
+<p class="pubd">
+    <span class="authors">Sagalpreet Singh, Navodita Sharma, Shreyas Havaldar, Rishi Saket, Aravindan Raghuveer </span> <br>
+    <span class="conf"> arXiv preprint arXiv:2411.12334 (Under review at AISTATS 2025)</span> <span class="links">
+        <a target="_blank" href="https://arxiv.org/pdf/2411.12334">Paper</a>
+    </span>
+</p>
 
 <a name="/youdescribe-descriptions-1"></a>
 <h2 class="pubt">Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation</h2>
