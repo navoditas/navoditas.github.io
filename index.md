@@ -20,7 +20,9 @@ permalink:  /
         <br>
         Offline RL
         <br>
-        Imitation Learning
+        Generative Models
+        <br>
+        Privacy
     </div>
 </div>
 <hr>
