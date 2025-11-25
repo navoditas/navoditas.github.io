@@ -46,7 +46,7 @@ I completed my Dual Degree (Bachelors + Masters) in Computer Science and Enginee
 <a name="/news"></a>
 # Updates
 - [Sep 2025] Our paper **Preserving Expert-Level Privacy in Offline Reinforcement Learning** got accepted to **TMLR** and was awarded a **J2C Certification.**
-- [Aug 2025] Started my PhD at MIT, advised by Prof. Pulkit Agrawal.
+- [Aug 2025] Started my **PhD** at **MIT**, advised by Prof. Pulkit Agrawal.
 - [May 2025] Our paper **Learning from Label Proportions and Covariate-shifted Instances** got accepted to **UAI 2025**.
 - [May 2025] Our paper **Discovering Symbolic Cognitive Models from Human and Animal Behavior** got accepted to **ICML 2025** for a **spotlight** poster presentation.
 - [January 2024] Our paper **Learning from Label Proportions: Bootstrapping Supervised Learners via Belief Propagation** got accepted to **ICLR 2024**.
