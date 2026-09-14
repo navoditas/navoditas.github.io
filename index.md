@@ -31,9 +31,9 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a first-year PhD student at MIT, advised by [Prof. Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/). 
+I am a second-year PhD student at MIT, advised by [Prof. Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/). My research focuses on the science of deep learning, particularly optimization, learning dynamics and inductive biases in generative models and transformer architectures. I aim to translate this understanding into methods that improve the training efficiency and adaptability of these models.
 
-Prior to this, I was a Research Engineer at Google DeepMind, where my work spanned a variety of research areas. My latest research involved developing differentially private algorithms for offline reinforcement learning, in collaboration with [Dr. Alekh Agarwal](https://alekhagarwal.net), [Dr. Abhradeep Guha Thakurta](https://athakurta.squarespace.com) and [Dr. Christoph Dann](https://cdann.net). In the past, I have worked on developing solutions for learning from aggregated data to preserve data privacy, mentored by [Dr. Aravindan Raghuveer](https://research.google/people/107631/), [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Karthikeyan Shanmugan](https://research.google/people/KarthikeyanShanmugam/).
+Prior to this, I was a Research Engineer at Google DeepMind, where my work spanned a variety of research areas. This included developing differentially private algorithms for offline reinforcement learning, in collaboration with [Dr. Alekh Agarwal](https://alekhagarwal.net), [Dr. Abhradeep Guha Thakurta](https://athakurta.squarespace.com) and [Dr. Christoph Dann](https://cdann.net). In the past, I have worked on developing solutions for learning from aggregated data to preserve data privacy, mentored by [Dr. Aravindan Raghuveer](https://research.google/people/107631/), [Dr. Rishi Saket](https://research.google/people/107857/) and [Dr. Karthikeyan Shanmugan](https://research.google/people/KarthikeyanShanmugam/).
 
 My past research also includes [automated discovery of interpretable policies from neuroscience data](https://deepmind.google/research/publications/automated-discovery-of-interpretable-cognitive-programs-underlying-reward-guided-behavior/), and exploring how reinforcement learning can facilitate continual learning in LLM agents.
 
