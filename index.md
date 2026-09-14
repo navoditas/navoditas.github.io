@@ -11,7 +11,7 @@ permalink:  /
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Graduate Student, Massachusetts Institute of Technology <br>
         navodita[at]mit[dot]edu<br>
-        navoditasharma16[at]gmail[dot]com<br>
+        navoditasharma08[at]gmail[dot]com<br>
         <!-- <br>
         <br>
         <b>Research Interests</b>
